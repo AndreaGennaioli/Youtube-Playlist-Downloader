@@ -1,0 +1,5 @@
+{
+  "apiKey": "Youtube API Key Here",
+  "playlistURL": "Playlist URL Here",
+  "downloadDir": "./videos/"
+}
