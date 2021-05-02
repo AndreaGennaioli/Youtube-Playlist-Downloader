@@ -12,7 +12,7 @@ Now You have to set the **Youtube API key**, the **playlist URL** and the downlo
 You can get your own Youtube API key by following [this tutorial](https://www.youtube.com/watch?v=VqML5F8hcRQ&ab_channel=YouTubeWordPressPlugin-Gallery%2CLivestreametc).
 Once copied it, past the key in the `config.json` file like this:
 ```json
-	"apiKey": "Youtube API Key Here",
+"apiKey": "Youtube API Key Here",
 ```
 Then save the file.
 ### 2. Get the Playlist URL
@@ -23,12 +23,12 @@ https://www.youtube.com/playlist?list=PLMC9KNkIncKseYxDN2niH6glGRWKsLtde
 ```
 Copy and paste it in the `config.json` file like this:
 ```json
-	"playlistURL": "Playlist URL Here",
+"playlistURL": "Playlist URL Here",
 ```
 ### 3. Change the Download Directory
 If You want, You can change the download directory changing the `"downloadDir"` value in `config.json` like this:
 ```json
-	"downloadDir": "/path/to/dir"
+"downloadDir": "/path/to/dir"
 ```
 ### 4. Run the Script
 To run the script open the `cmd` in the directory and digit `node .`, then press `ENTER`.
